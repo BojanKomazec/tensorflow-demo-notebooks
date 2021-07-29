@@ -1,5 +1,5 @@
 Car,Model,Volume,Weight,CO2
-Toyoty,Aygo,1000,790,99
+Toyota,Aygo,1000,790,99
 Mitsubishi,Space Star,1200,1160,95
 Skoda,Citigo,1000,929,95
 Fiat,500,900,865,90
@@ -13,7 +13,7 @@ Hyundai,I20,1100,980,99
 Suzuki,Swift,1300,990,101
 Ford,Fiesta,1000,1112,99
 Honda,Civic,1600,1252,94
-Hundai,I30,1600,1326,97
+Hyundai,I30,1600,1326,97
 Opel,Astra,1600,1330,97
 BMW,1,1600,1365,99
 Mazda,3,2200,1280,104
